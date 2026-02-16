@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "片依存",
+  "base_artist": "とた",
+  "createdAt": "2026-02-16T00:40:26.940143Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "片依存",
+      "artist": "とた",
+      "has_synced": false,
+      "path": "select/pl_01_片依存_とた.txt"
+    }
+  ]
+}
